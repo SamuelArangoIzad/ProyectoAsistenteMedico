@@ -1,5 +1,5 @@
 # ProyectoAsistenteMedico
-Primer proyecto de aula con base a asistente de citas médicas ubicado en la localidad de Bucaramanga empleando las estructuras de datos, paradigmas de programación, programación orientada a objetos y eventos y también niveles de capas de programa y métodos con responsabilidad única.
+First classroom project based on a medical appointment assistant located in the town of Bucaramanga using data structures, programming paradigms, object- and event-oriented programming, as well as program layer levels and methods with single responsibility.
 
 # Compañero de trabajo
 [StrucdiR](https://github.com/StrucidR)
